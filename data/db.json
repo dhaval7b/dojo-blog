@@ -1,0 +1,28 @@
+{
+    "body":[
+        { 
+            "title":"My new website",
+            "body": "lorem ipsum ...",
+            "author":"mario",
+            "id":1
+        },
+        { 
+            "title":"My new website",
+            "body": "lorem ipsum ...",
+            "author":"yoshi",
+            "id":2
+        },
+        { 
+            "title":"web dev top lists",
+            "body": "lorem ipsum ...",
+            "author":"maario",
+            "id":3
+        },
+        { 
+            "title":"luigo's party",
+            "body": "lorem ipsum ...",
+            "author":"luigi",
+            "id":4
+        }
+      ]
+}
